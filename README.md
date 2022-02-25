@@ -8,5 +8,5 @@ A passionate frontend developer from the Netherlands
 
 ### Things that pique my interest:
 - Typography
-- Fancy animations on websites 
-- Modern and trendy 3D elements in web design
+- Fancy animations in websites 
+- Trendy 3D elements in web design
