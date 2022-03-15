@@ -1,5 +1,5 @@
-# Hi there, I'm Alisha 👋
-A passionate frontend developer from the Netherlands
+# Hi there, I'm Alisha :octocat:
+A frontend developer from the Netherlands
 
 ### A couple of things I'm up to:
 - Currenty studying software development at MBO 
