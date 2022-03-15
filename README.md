@@ -1,4 +1,4 @@
-# Hi there, I'm Alisha :octocat:
+# :octocat: Hi there, I'm Alisha :octocat:
 A frontend developer from the Netherlands
 
 ### A couple of things I'm up to:
