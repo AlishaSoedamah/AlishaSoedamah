@@ -1,5 +1,5 @@
 # Hi there, I'm Alisha 👋
-A frontend developer from the Netherlands based in Amsterdam
+A Software Developer from the Netherlands based in Amsterdam
 
 ### A couple of things I'm up to:
 - Currenty studying software development at MBO 
