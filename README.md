@@ -1,10 +1,24 @@
-# Hi there, I'm Alisha 👋
-A Software Developer from the Netherlands based in Amsterdam
+Hi I'm Alisha 👾 <br>
 
-### A couple of things I'm up to:
-- Currenty studying software development at MBO 
-- Always looking for new ways to improve as a web dev
+I am currently an 18 year old progressive vocational college student studying software development. 
 
-### Things that pique my interest:
-- Typography
-- Trendy 3D elements in web design
+### My hobbies include
+
+- Coming up with ideas for websites and assembling them into actual responsive websites
+- Creating web designs
+- Making puzzles (especially nonograms) 
+- Reading
+
+### A little more about me 
+
+Things I am up to:
+- Sudying software development at vocational college until 2023
+- Building my personal portfolio website [WIP] which can be found here: https://alishasoedamah.github.io/
+
+Current trivial interests:
+- Acid posters (10 points if they're distorted)
+- 3D elements in web design
+- Retro Futurism
+- Journalism
+
+last updated 2/6/22
