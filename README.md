@@ -18,4 +18,4 @@ Current trivial interests:
 - Acid posters (especially if they're distorted)
 - 3D elements in web design
 
-last updated 2/6/22
+last updated 4/6/22
