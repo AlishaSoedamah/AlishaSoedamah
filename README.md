@@ -5,8 +5,6 @@ I am currently an 18-year-old progressive vocational college student studying so
 #### My hobbies include
 - Coming up with ideas for websites and assembling them into actual responsive websites
 - Creating web designs
-- Making puzzles (particularly nonograms)
-- Reading
 
 #### A little more about me
 
@@ -19,7 +17,5 @@ Current trivial interests:
 
 - Acid posters (especially if they're distorted)
 - 3D elements in web design
-- Retro Futurism
-- Journalism
 
 last updated 2/6/22
