@@ -12,7 +12,7 @@ I am an 18-year-old progressive vocational college student studying software dev
 Things I am up to:
 
 - Studying software development at vocational college until 2023
-- Building my personal portfolio website [WIP] which may be found <a href="https://alishasoedamah.github.io/"> ->here <-</a> 
+- Building my personal portfolio website [WIP] which may be found <a href="https://alishasoedamah.github.io/"> -> here <-</a> 
 
 Current trivial interests:
 
