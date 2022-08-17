@@ -2,7 +2,7 @@
 
 I am a last years vocational secondary student studying software development.
 <br>
-<a href="https://alishasoedamah.github.io/">looking for my personal corner on the internet?</a>
+<a href="https://alishasoedamah.github.io/">Looking for my personal corner on the internet?</a>
 
 ***My hobbies include***
 - Graphic design <a href="https://www.instagram.com/erratic_sense_of_being/" >find examples here</a>
