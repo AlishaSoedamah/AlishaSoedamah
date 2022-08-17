@@ -1,11 +1,9 @@
 <h1 align="center">
   Hi, I'm Alisha ☘
 </h1>
-<div align="center">
 I am a last years vocational secondary student studying software development.
 <br>
 <a href="https://alishasoedamah.github.io/">Looking for my personal corner on the internet?</a>
-</div>
 
 ***My hobbies include***
 <br>↳ Graphic design <a href="https://www.instagram.com/erratic_sense_of_being/" >find examples here</a>
