@@ -14,3 +14,5 @@ I am a last years vocational secondary student studying software development.
 <br><a href="https://www.linkedin.com/in/alisha-soedamah/"> ↳ LinkedIn</a>
 <br><a href="https://www.instagram.com/erratic_sense_of_being/"> ↳ Instagram</a>
 <br><a href="https://twitter.com/AlishaSoedamah"> ↳ Twitter</a>
+
+[![Alisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alishasoedamah&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
