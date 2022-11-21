@@ -15,6 +15,6 @@ I am a last years vocational secondary student studying software development.
 <br><a href="https://www.instagram.com/erratic_sense_of_being/"> ↳ Instagram</a>
 <br><a href="https://twitter.com/AlishaSoedamah"> ↳ Twitter</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" alt="Alisha's github stats" src="https://github-readme-stats.vercel.app/api?username=alishasoedamah&show_icons=true&count_private=true&hide=stars"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishasoedamah&layout=compact&exclude_repo=Flask-projects)]https://github.com/alishasoedamah/github-readme-stats"> </a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" alt="Alisha's github stats" src="https://github-readme-stats.vercel.app/api?username=alishasoedamah&show_icons=true&count_private=true&hide=stars&theme=nord"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishasoedamah&theme=nord)]https://github.com/alishasoedamah/github-readme-stats"> </a> |
 | ------------- | ------------- |
 
