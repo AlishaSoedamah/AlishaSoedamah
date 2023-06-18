@@ -9,6 +9,6 @@
 <br><a href="https://www.instagram.com/erratic_sense_of_being/"> ↳ Instagram</a>
 <br><a href="https://twitter.com/AlishaSoedamah"> ↳ Twitter</a>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" alt="Alisha's github stats" src="https://github-readme-stats.vercel.app/api?username=alishasoedamah&show_icons=true&count_private=true&hide=stars"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishasoedamah&layout=compact&theme=nord)]https://github.com/alishasoedamah/github-readme-stats"> </a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishasoedamah&layout=compact&theme=nord)]https://github.com/alishasoedamah/github-readme-stats"> </a> |
+
 
