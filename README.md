@@ -6,6 +6,7 @@
 
 ***Find me here***
 <br><a href="https://www.linkedin.com/in/alisha-soedamah/"> ↳ LinkedIn</a>
+<br><a href="https://www.behance.net/alishasoedamah1"> ↳ Behance</a>
 <br><a href="https://www.instagram.com/erratic_sense_of_being/"> ↳ Instagram</a>
 <br><a href="https://twitter.com/AlishaSoedamah"> ↳ Twitter</a>
 
